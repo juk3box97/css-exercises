@@ -1,6 +1,6 @@
-p {
+.odd {
     background-color: rgb(231, 125, 125);
-    font-family: Verdana, DejaVu Sans, sans-serif
+    font-family: Verdana, "DejaVu Sans", sans-serif
 }
 #num2 {
     color: rgb(17, 17, 207);
@@ -8,6 +8,8 @@ p {
 }
 #num4 {
     background-color: rgb(102, 233, 102);
-    font-size: 24px;
     font-weight: bold;
+}
+.adjust-font-size {
+    font-size: 24px;
 }
